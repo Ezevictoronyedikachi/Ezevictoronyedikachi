@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on front-end development project
-- 📫 How to reach me: www.facebook.com/ezevictoronyedikachi2017@gmail.com, www.twitter.com/@EzeVict22423521
+- 📫 How to reach me: www.facebook.com/ezevictoronyedikachi2017@gmail.com, www.twitter.com/@EzeVict22423521. ezevictoronyedikachi2017@gmail.com
 
 <!---
 Ezevictoronyedikachi/Ezevictoronyedikachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
