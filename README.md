@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ezevictoronyedikachi
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on any data analysis project
+- 👀 I’m a data analyst
+- 🌱 I’m currently learning data story telling
+- 💞️ I’m looking to collaborate on any data analysis project, volunteer or otherwise
 - 📫 How to reach me: www.facebook.com/ezevictoronyedikachi2017@gmail.com, ezevictoronyedikachi2017@gmail.com
 
 <!---
