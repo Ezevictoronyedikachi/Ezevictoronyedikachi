@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ezevictoronyedikachi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on front-end development project
-- 📫 How to reach me: www.facebook.com/ezevictoronyedikachi2017@gmail.com, www.twitter.com/@EzeVict22423521. ezevictoronyedikachi2017@gmail.com
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on any data analysis project
+- 📫 How to reach me: www.facebook.com/ezevictoronyedikachi2017@gmail.com, ezevictoronyedikachi2017@gmail.com
 
 <!---
 Ezevictoronyedikachi/Ezevictoronyedikachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
